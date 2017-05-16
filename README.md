@@ -14,6 +14,8 @@ Materials
     2.2 kiloOhm resistor
     Breadboard
 
+![Alt text](/Breadboad_diagram.png?raw=true "Breadboard Diagram")
+
 Breadboard is an RC (Resistor-Capacitor) circuit.
 
 The photoresistor on the breadboard detects light and activates the camera, which takes pictures at 30°, 90°, and 120°.
