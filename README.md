@@ -14,7 +14,7 @@ Materials
     2.2 kiloOhm resistor
     Breadboard
 
-![Alt text](Breadboad_diagram.png?raw=true "Breadboard Diagram")
+![Alt text](https://github.com/nramdial/securityCamera/blob/master/Breadboard_diagram.png?raw=true "Breadboard Diagram")
 
 Breadboard is an RC (Resistor-Capacitor) circuit.
 
